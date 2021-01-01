@@ -37,7 +37,7 @@ GIF created with [RECORDIT 2](https://recordit.co//).
 
 ## Notes
 
-Implementing the UIStepper was challenging. This feature still needs work, but it taught me a lot.
+Implementing the UIStepper was challenging, but it taught me a lot.
 
 ## License
 
